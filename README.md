@@ -33,3 +33,4 @@ yarn reset
 - VSCode
 - And these useful of JavaScript libraries & Gatsby plugins [package.json](package.json)
 
+[![Elixir](http://img.youtube.com/vi/-RLe_A0c358/0.jpg)](http://www.youtube.com/watch?v=-RLe_A0c358 "Elixir")
